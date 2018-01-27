@@ -1,6 +1,7 @@
+<h1> Anna </h1>
 A react native chatbot application which is a powerful tool for building delightful and natural conversational experiences.
 Can also be integrated with various platforms like twitter, facebook, slack, or alexa. <br />
-<img src="src/screenshots/Anna1.png" height="600" align="middle" />
+<a href="https://imgflip.com/gif/23gak8"><img src="https://i.imgflip.com/23gak8.gif" title="made at imgflip.com"/></a>
 <h2> Run the project: </h2>
 
 Run the following command to run the project in the project's repository:
